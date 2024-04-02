@@ -1,0 +1,36 @@
+Internship Task-3 Report: Responsive Web Page for Todo List
+
+I am pleased to submit my Task-3 report as per the requirements outlined during my internship at VeriTech Software IT Services. Below are the details of the completed task:
+
+Email Id: sivasakthip6380@gmail.com
+Name: Siva Sakthi P
+Task Title: Development of Responsive Web Page for Todo List
+Task Description: The task involved creating a responsive web page for a todo list application.
+
+Steps Taken:
+
+- Researched best practices for responsive web design.
+- Designed wireframes for the todo list application using Figma.
+- Developed the front-end using HTML, CSS, and JavaScript.
+- Ensured cross-browser compatibility and responsiveness across various devices.
+- Implemented basic functionality such as adding, removing and editing tasks as complete.
+
+Challenges Faced:
+
+Responsive Design Complexity: Adapting the design to different screen sizes posed a challenge, especially ensuring optimal usability on smaller devices.
+Browser Compatibility: Ensuring consistent behavior across different browsers proved to be challenging due to varying CSS interpretations.
+Implementation of Task Interactions: Implementing smooth interactions for task management (add, remove, edit as complete) required careful consideration.
+
+Solutions Implemented:
+
+Utilized CSS Flexbox and Grid layout for creating a responsive design that adjusts to different screen sizes seamlessly.
+Employed CSS vendor prefixes and compatibility libraries to address cross-browser issues.
+
+Learnings:
+
+Enhanced understanding of responsive web design principles and techniques.
+Improved proficiency in HTML, CSS, and JavaScript.
+Learned effective problem-solving skills when dealing with cross-browser compatibility issues.
+
+Project Update:
+Successfully completed Task 3 of the internship by enhancing the front-end design of the todo list form. I look forward to your feedback and further guidance on how to proceed with upcoming tasks. Thank you for the opportunity to work on this project.
